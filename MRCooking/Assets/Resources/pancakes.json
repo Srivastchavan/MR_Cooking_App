@@ -1,0 +1,25 @@
+{
+  "Name": "Pancakes",
+  "Steps": [
+    "1. In a large bowl, mix flour, sugar, baking powder and salt",
+    "2. Make a well in the center, and pour in milk, egg and oil",
+    "3. Mix until smooth",
+    "4. Heat a lightly oiled griddle or frying pan over medium high heat",
+    "5. Pour or scoop the batter onto the griddle, using approximately 1/4 cup for each pancake",
+    "6. Brown on both sides and serve hot"
+
+  ],
+  "timeSteps": [
+    "24",
+    "52",
+    "87",
+    "102",
+    "107",
+    "123"
+  ],
+  "link": "https://www.youtube.com/watch?v=LWuuCndtJr0",
+  "s3link": "https://mrcookingapp.s3.amazonaws.com/pancakes.mp4",
+  "ingredients": [ "1 cup all-purpose flour", "2 tablespoons white sugar", "2 teaspoons baking powder", "1 teaspoon salt", "1 egg", " beaten", "1 cup milk", "2 tablespoons vegetable oil" ],
+  "image": "pancakes",
+  "frameRate": "23.976"
+}

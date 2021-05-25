@@ -1,0 +1,19 @@
+{
+    "CookMode":[
+        "brownie",
+        "FrenchToast",
+        "pancakes",
+        "Pasta",
+        "waffles",
+        "HoneyChicken",
+        "Tortilla",
+        "spinach"
+    ],
+    "RecordMode":[
+        "pancakes",
+        "Pasta",
+        "waffles",
+        "HoneyChicken",
+        "Tortilla",
+        "spinach"]
+}

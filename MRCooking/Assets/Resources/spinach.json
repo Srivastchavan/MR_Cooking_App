@@ -1,0 +1,22 @@
+{
+  "Name": "spinach",
+  "Steps": [
+    "1. Add oil and garlic to a cold pan, heat up and sauté for 1 min.",
+    "2. Add red pepper flakes and baby spinach.",
+    "3. Cover and cook on low for 2 minutes.",
+    "4. Uncover, stir until it wilts a little bit.",
+    "5. Turn off heat, and add lemon juice."
+  ],
+  "timeSteps": [
+    "110",
+    "129",
+    "158",
+    "165",
+    "220"
+  ],
+  "link": "https://www.youtube.com/watch?v=QUOqjliy1k0",
+  "s3link": "https://mrcookingapp.s3.amazonaws.com/spinach.mp4",
+  "ingredients": [ "1.5 TBSP organic olive oil", "16oz organic baby spinach", "6 garlic cloves (sliced)", "red pepper flakes (optional)", "1 tsp lemon juice (to taste)", "pink sea salt", "fresh cracked black pepper" ],
+  "image": "spinach",
+  "frameRate": "30.000"
+}

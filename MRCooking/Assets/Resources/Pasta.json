@@ -1,0 +1,28 @@
+{
+  "Name": "Garlic Butter Pasta",
+  "Steps": [
+    "1. In a medium-sized saucepot, boil water and salt it. Add your pasta, and cook according to the package instructions",
+    "2. When the pasta is cooked, reserve 1 cup of the pasta water and drain the pasta",
+    "3. To make the garlic butter sauce for pasta: In a skillet, melt butter on medium heat and saute the sliced garlic very lightly",
+    "4. Add the hot pasta along with a part of the pasta water, and toss it using kitchen tongs until a sort of thick sauce is coating the pasta",
+    "5. Keep on tossing and add more pasta water if needed",
+    "6. Remove from heat, and add freshly grated parmesan cheese and chopped parsley leaves",
+    "7. Toss continuously and season with salt if needed. Serve warm with extra grated parmesan cheese and enjoy"
+
+  ],
+  "timeSteps": [
+    "8",
+    "17",
+    "20",
+    "35",
+    "47",
+    "58",
+    "65"
+  ],
+  "link": "https://www.youtube.com/watch?v=MQVjTtjF0BY",
+  "s3link": "https://mrcookingapp.s3.amazonaws.com/Pasta.mp4",
+  "ingredients": [ "Pasta", "butter", "garlic", "parmesan", "parsley", "salt" ],
+  "image": "Pasta",
+  "frameRate": "23.976"
+}
+

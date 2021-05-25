@@ -1,0 +1,20 @@
+{
+  "Name": "French Toast",
+  "Steps": [
+    "1. In a shallow wide dish, beat the eggs and sugar together until sugar dissolves. Then add milk, vanilla essence, cinnamon powder, and salt to the mixture. Whisk until well combined",
+    "2. Heat a large skillet over medium heat, add 1 tablespoon of butter (for every 2 sliceand allow it to melt. (you can also use vegetable oil here)",
+    "3. Dip each slice of bread into the egg mixture, allowing them to soak on both sides. Then transfer the bread to the hot skillet and cook until golden brown on both sides, about 2-3 minutes each side",
+    "4. Serve hot with butter and maple syrup or honey, paired with some fresh berries"
+  ],
+  "timeSteps": [
+    "16",
+    "70",
+    "76",
+    "138"
+  ],
+  "link": "https://www.youtube.com/watch?v=jiagM8412nQ",
+  "s3link": "https://mrcookingapp.s3.amazonaws.com/FrenchToast.mp4",
+  "ingredients": [ "6 Thick Slice Bread", "2 Large Size Egg", "2 Tbsp Brown/white Sugar", "1/3 Cup Milk", "1 Tsp Vanilla Essence", "1/4 Tsp Cinnamon Powder", "1 Pinch Salt", "3 Tbsp Butter" ],
+  "image": "FrenchToast",
+  "frameRate": "30.000"
+}

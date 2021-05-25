@@ -1,0 +1,24 @@
+{
+  "Name": "Waffles",
+  "Steps": [
+    "1. Combine dry ingredients: All-purpose flour, baking powder, salt and sugar",
+    "2. Make a well in the center and add: beaten eggs, vanilla and milk",
+    "3. Combine well; mixture may be lumpy",
+    "4. Add oil and stir until fully combined",
+    "5. Pour waffle batter onto preheated waffle iron",
+    "6. Bake in waffler according to manufacturer instructions"
+  ],
+  "timeSteps": [
+    "21",
+    "33",
+    "50",
+    "56",
+    "74",
+    "90"
+  ],
+  "link": "https://www.youtube.com/watch?v=If3mhf6P6so",
+  "s3link": "https://mrcookingapp.s3.amazonaws.com/waffles.mp4",
+  "ingredients": [ "2 cups all-purpose flour", "1 Tablespoon baking powder", "1/4 teaspoon salt", "2 Tablespoons sugar(granulated or light brown)", "2 beaten eggs", "1 teaspoon vanilla", "1-1/2 cups milk (or combination milk , buttermilk)", "1/4 cup cooking oil (canola,safflower,vegetable)" ],
+  "image": "waffles",
+  "frameRate": "29.970"
+}
